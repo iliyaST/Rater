@@ -1,0 +1,28 @@
+html,
+body {
+  margin: 0 auto;
+}
+
+.square {
+  background-color: black;
+  height: 10vw;
+  width: 30vw;
+  background-color: transparent;
+  border: 0.1vw solid black;
+  text-align: center;
+  font-size: 6vw;
+  font-weight: bolder;
+  background-color: pink;
+  opacity: 0.5;
+}
+
+.rater-container {
+  background-image: url("./assets/RaterBackGround.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vw;
+  width: 30vw;
+  position: absolute;
+  left: 60%;
+  margin: 0;
+}
